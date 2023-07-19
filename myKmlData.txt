@@ -1,0 +1,2813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Placemark>
+			<name>2km NE of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;1.07 Magnitude earthquake at 2023-03-12T22:59:41.500Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.746330, 38.788502</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>36 km SSE of Goldfield, Nevada</name>
+			<description>
+&lt;h1&gt;0.8 Magnitude earthquake at 2023-03-12T22:44:18.592Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-117.125000, 37.389200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9km E of Somes Bar, CA</name>
+			<description>
+&lt;h1&gt;2.47 Magnitude earthquake at 2023-03-12T22:33:38.750Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-123.371834, 41.384834</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1 km NNE of Point MacKenzie, Alaska</name>
+			<description>
+&lt;h1&gt;1.3 Magnitude earthquake at 2023-03-12T22:30:25.599Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-149.973300, 61.371700</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2km NE of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;1.56 Magnitude earthquake at 2023-03-12T22:28:02.100Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.734001, 38.790165</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6km WNW of Cobb, CA</name>
+			<description>
+&lt;h1&gt;0.79 Magnitude earthquake at 2023-03-12T22:26:46.830Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.793503, 38.835335</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kenai Peninsula, Alaska</name>
+			<description>
+&lt;h1&gt;1.3 Magnitude earthquake at 2023-03-12T22:18:38.890Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.036900, 60.914800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kenai Peninsula, Alaska</name>
+			<description>
+&lt;h1&gt;1.8 Magnitude earthquake at 2023-03-12T22:11:33.804Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.344700, 60.844400</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2 km SW of Indios, Puerto Rico</name>
+			<description>
+&lt;h1&gt;2.38 Magnitude earthquake at 2023-03-12T22:09:41.970Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-66.834833, 17.973500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 km NNW of Moose Pass, Alaska</name>
+			<description>
+&lt;h1&gt;1.7 Magnitude earthquake at 2023-03-12T22:07:34.556Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-149.423600, 60.617500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8km WNW of Cobb, CA</name>
+			<description>
+&lt;h1&gt;0.91 Magnitude earthquake at 2023-03-12T22:04:57.040Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.809166, 38.837166</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Puerto Rico region</name>
+			<description>
+&lt;h1&gt;3.52 Magnitude earthquake at 2023-03-12T22:02:05.190Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-66.830300, 17.968800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>99 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.54 Magnitude earthquake at 2023-03-12T21:46:52.110Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.077000, 51.863500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>42 km NW of Ninilchik, Alaska</name>
+			<description>
+&lt;h1&gt;1.7 Magnitude earthquake at 2023-03-12T21:39:09.964Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-152.158800, 60.344300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>northern Alaska</name>
+			<description>
+&lt;h1&gt;2.6 Magnitude earthquake at 2023-03-12T21:21:37.223Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-154.557400, 66.427400</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>0km NE of Brea, CA</name>
+			<description>
+&lt;h1&gt;1.11 Magnitude earthquake at 2023-03-12T21:18:40.710Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-117.898500, 33.918500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>86 km S of Koshima, Japan</name>
+			<description>
+&lt;h1&gt;4.7 Magnitude earthquake at 2023-03-12T21:17:52.947Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>130.644900, 29.460000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8km NW of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;1.09 Magnitude earthquake at 2023-03-12T21:07:08.970Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.814499, 38.832333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 km E of El Negro, Puerto Rico</name>
+			<description>
+&lt;h1&gt;3.1 Magnitude earthquake at 2023-03-12T21:03:14.790Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-65.728667, 18.044667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>0 km SW of La Parguera, Puerto Rico</name>
+			<description>
+&lt;h1&gt;2.08 Magnitude earthquake at 2023-03-12T20:59:20.910Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-67.047500, 17.974167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>104 km E of Lata, Solomon Islands</name>
+			<description>
+&lt;h1&gt;5.1 Magnitude earthquake at 2023-03-12T20:56:51.580Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>166.755000, -10.768200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Puget Sound region, Washington</name>
+			<description>
+&lt;h1&gt;1.01 Magnitude earthquake at 2023-03-12T20:42:51.300Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.913500, 47.889667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>83 km NW of Karluk, Alaska</name>
+			<description>
+&lt;h1&gt;1.0 Magnitude earthquake at 2023-03-12T20:36:57.843Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.250000, 58.189900</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>101 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;2.07 Magnitude earthquake at 2023-03-12T20:36:42.280Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.106833, 51.859167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>62 km NNW of Petersville, Alaska</name>
+			<description>
+&lt;h1&gt;1.6 Magnitude earthquake at 2023-03-12T20:30:04.653Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.004500, 63.045800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 km NNE of Jordán, Colombia</name>
+			<description>
+&lt;h1&gt;4.2 Magnitude earthquake at 2023-03-12T20:26:44.651Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-73.064500, 6.841600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.23 Magnitude earthquake at 2023-03-12T20:26:43.130Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.941333, 51.878667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>near the east coast of Honshu, Japan</name>
+			<description>
+&lt;h1&gt;4.3 Magnitude earthquake at 2023-03-12T20:25:33.329Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>142.534300, 39.509500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;0.87 Magnitude earthquake at 2023-03-12T20:22:28.230Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.941000, 51.864333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>96 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;2.17 Magnitude earthquake at 2023-03-12T20:19:58.370Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.041000, 51.865667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>86 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.9 Magnitude earthquake at 2023-03-12T20:19:22.110Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.893333, 51.863667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>46 km N of Chase, Alaska</name>
+			<description>
+&lt;h1&gt;1.7 Magnitude earthquake at 2023-03-12T20:15:39.433Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-150.115700, 62.870800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8km WSW of Idyllwild, CA</name>
+			<description>
+&lt;h1&gt;1.91 Magnitude earthquake at 2023-03-12T20:15:09.960Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.800167, 33.714000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>88 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.79 Magnitude earthquake at 2023-03-12T20:08:26.730Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.913000, 51.862000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>89 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.41 Magnitude earthquake at 2023-03-12T20:04:42.630Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.939333, 51.881000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;1.03 Magnitude earthquake at 2023-03-12T19:58:14.510Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.916000, 51.858667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;1.21 Magnitude earthquake at 2023-03-12T19:47:45.690Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.908833, 51.860667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>88 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.88 Magnitude earthquake at 2023-03-12T19:41:43.940Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.917500, 51.854333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>41 km NNW of Beluga, Alaska</name>
+			<description>
+&lt;h1&gt;1.3 Magnitude earthquake at 2023-03-12T19:41:16.062Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.506100, 61.455300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 km S of Talkeetna, Alaska</name>
+			<description>
+&lt;h1&gt;0.9 Magnitude earthquake at 2023-03-12T19:37:48.782Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-150.100200, 62.221100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>105 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.44 Magnitude earthquake at 2023-03-12T19:37:19.910Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.173000, 51.898833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4km NW of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;0.45 Magnitude earthquake at 2023-03-12T19:30:50.960Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.791832, 38.807335</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4km W of Cobb, CA</name>
+			<description>
+&lt;h1&gt;1.09 Magnitude earthquake at 2023-03-12T19:29:59.530Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.765663, 38.818500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;1.07 Magnitude earthquake at 2023-03-12T19:27:00.700Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.907667, 51.861833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>87 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;2.21 Magnitude earthquake at 2023-03-12T19:23:43.440Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.904333, 51.861167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>87 km NNW of Karluk, Alaska</name>
+			<description>
+&lt;h1&gt;-0.45 Magnitude earthquake at 2023-03-12T19:21:07.570Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-154.991833, 58.301000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 km W of Skwentna, Alaska</name>
+			<description>
+&lt;h1&gt;1.3 Magnitude earthquake at 2023-03-12T19:14:36.357Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.558900, 61.998000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>87 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.25 Magnitude earthquake at 2023-03-12T19:14:19.530Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.906500, 51.858333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>85 km NW of Karluk, Alaska</name>
+			<description>
+&lt;h1&gt;-0.46 Magnitude earthquake at 2023-03-12T19:12:23.100Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.345333, 58.167000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>89 km N of Yakutat, Alaska</name>
+			<description>
+&lt;h1&gt;1.9 Magnitude earthquake at 2023-03-12T19:10:38.965Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-139.749700, 60.349400</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;0.87 Magnitude earthquake at 2023-03-12T19:09:16.520Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.101667, 51.856000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 km ESE of Pāhala, Hawaii</name>
+			<description>
+&lt;h1&gt;2.0 Magnitude earthquake at 2023-03-12T19:07:02.540Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.368332, 19.141834</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8km WNW of Cobb, CA</name>
+			<description>
+&lt;h1&gt;1.05 Magnitude earthquake at 2023-03-12T19:00:23.890Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.809998, 38.837334</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1km SE of Redlands, CA</name>
+			<description>
+&lt;h1&gt;1.03 Magnitude earthquake at 2023-03-12T18:50:54.830Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-117.176833, 34.049000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>121 km SW of Puerto Casma, Peru</name>
+			<description>
+&lt;h1&gt;4.5 Magnitude earthquake at 2023-03-12T18:29:47.460Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-79.293000, -10.081500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>northern Alaska</name>
+			<description>
+&lt;h1&gt;2.1 Magnitude earthquake at 2023-03-12T18:26:15.845Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-147.720100, 65.985700</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3km SSE of Brawley, CA</name>
+			<description>
+&lt;h1&gt;1.26 Magnitude earthquake at 2023-03-12T18:18:49.630Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-115.523667, 32.953667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3km SSE of Brawley, CA</name>
+			<description>
+&lt;h1&gt;2.07 Magnitude earthquake at 2023-03-12T18:06:49.070Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-115.520333, 32.952667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>68 km N of Stevens Village, Alaska</name>
+			<description>
+&lt;h1&gt;1.7 Magnitude earthquake at 2023-03-12T18:03:03.404Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-148.825100, 66.612000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11km NNW of Delta, B.C., MX</name>
+			<description>
+&lt;h1&gt;1.83 Magnitude earthquake at 2023-03-12T18:00:22.640Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-115.238667, 32.447333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6km NW of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;0.39 Magnitude earthquake at 2023-03-12T17:57:28.170Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.818497, 38.809834</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3 km ENE of Cașoca, Romania</name>
+			<description>
+&lt;h1&gt;4.2 Magnitude earthquake at 2023-03-12T17:44:22.412Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>26.313200, 45.497300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 km NW of Anchorage, Alaska</name>
+			<description>
+&lt;h1&gt;1.3 Magnitude earthquake at 2023-03-12T17:41:34.146Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-150.017000, 61.262100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>32 km WNW of Beluga, Alaska</name>
+			<description>
+&lt;h1&gt;1.4 Magnitude earthquake at 2023-03-12T17:23:09.328Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.664900, 61.221600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gulf of Alaska</name>
+			<description>
+&lt;h1&gt;2.4 Magnitude earthquake at 2023-03-12T17:16:12.012Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-149.197200, 56.618100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 km E of Pāhala, Hawaii</name>
+			<description>
+&lt;h1&gt;2.2 Magnitude earthquake at 2023-03-12T17:05:09.710Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.349503, 19.182333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 km ENE of Pāhala, Hawaii</name>
+			<description>
+&lt;h1&gt;2.09 Magnitude earthquake at 2023-03-12T17:05:04.650Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.378174, 19.256500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>101 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;3.0 Magnitude earthquake at 2023-03-12T17:04:20.621Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.105300, 51.866700</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>50 km SSE of Kokhanok, Alaska</name>
+			<description>
+&lt;h1&gt;2.5 Magnitude earthquake at 2023-03-12T16:58:41.433Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-154.397300, 59.029200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;1.28 Magnitude earthquake at 2023-03-12T16:51:04.610Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.931000, 51.893500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.46 Magnitude earthquake at 2023-03-12T16:50:18.240Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.086000, 51.857167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>31km N of Yucca Valley, CA</name>
+			<description>
+&lt;h1&gt;1.28 Magnitude earthquake at 2023-03-12T16:49:06.220Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.454667, 34.394167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>102 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;2.02 Magnitude earthquake at 2023-03-12T16:42:38.070Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.120000, 51.872000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24 km ESE of Livengood, Alaska</name>
+			<description>
+&lt;h1&gt;1.2 Magnitude earthquake at 2023-03-12T16:33:59.450Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-148.050600, 65.439200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;1.47 Magnitude earthquake at 2023-03-12T16:29:59.220Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.948000, 51.898667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13km WNW of Anza, CA</name>
+			<description>
+&lt;h1&gt;0.37 Magnitude earthquake at 2023-03-12T16:29:03.240Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.798000, 33.612167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.21 Magnitude earthquake at 2023-03-12T16:16:26.220Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.097333, 51.869500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>87 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.93 Magnitude earthquake at 2023-03-12T16:16:19.280Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.908667, 51.870833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>87 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.88 Magnitude earthquake at 2023-03-12T16:16:06.310Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.909500, 51.870500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>99 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.42 Magnitude earthquake at 2023-03-12T16:14:47.050Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.080833, 51.867167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>101 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.26 Magnitude earthquake at 2023-03-12T16:14:04.850Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.109167, 51.869333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>99 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.04 Magnitude earthquake at 2023-03-12T16:13:43.490Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.084500, 51.858833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>99 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.23 Magnitude earthquake at 2023-03-12T16:10:09.810Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.081333, 51.852333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.44 Magnitude earthquake at 2023-03-12T16:05:30.050Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.090000, 51.887667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;0.92 Magnitude earthquake at 2023-03-12T16:00:37.120Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.107167, 51.870333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.93 Magnitude earthquake at 2023-03-12T16:00:17.340Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.091667, 51.865000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10km S of Idyllwild, CA</name>
+			<description>
+&lt;h1&gt;0.55 Magnitude earthquake at 2023-03-12T15:35:42.630Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.708500, 33.646833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vancouver Island, Canada region</name>
+			<description>
+&lt;h1&gt;4.4 Magnitude earthquake at 2023-03-12T15:31:55.514Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-129.615800, 48.822600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>35 km S of Urgut Shahri, Uzbekistan</name>
+			<description>
+&lt;h1&gt;4.4 Magnitude earthquake at 2023-03-12T15:26:16.160Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>67.321400, 39.106500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6km WSW of Anza, CA</name>
+			<description>
+&lt;h1&gt;0.21 Magnitude earthquake at 2023-03-12T15:21:24.010Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.728667, 33.531667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Alaska</name>
+			<description>
+&lt;h1&gt;1.5 Magnitude earthquake at 2023-03-12T15:18:31.083Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.473800, 62.811200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Alaska</name>
+			<description>
+&lt;h1&gt;1.4 Magnitude earthquake at 2023-03-12T15:17:38.121Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-150.816900, 63.583600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 km SSW of Sunrise, Alaska</name>
+			<description>
+&lt;h1&gt;1.7 Magnitude earthquake at 2023-03-12T15:15:17.454Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-149.543300, 60.783900</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>48 km SW of Cantwell, Alaska</name>
+			<description>
+&lt;h1&gt;1.0 Magnitude earthquake at 2023-03-12T15:10:17.410Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-149.608900, 63.076900</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 km SW of Fort Greely, Alaska</name>
+			<description>
+&lt;h1&gt;1.3 Magnitude earthquake at 2023-03-12T15:04:02.969Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-145.823800, 63.850100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11km SW of Corona, CA</name>
+			<description>
+&lt;h1&gt;1.11 Magnitude earthquake at 2023-03-12T15:01:45.810Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-117.649833, 33.801500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>99 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;2.8 Magnitude earthquake at 2023-03-12T14:57:11.659Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.085000, 51.884000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9km SSW of Idyllwild, CA</name>
+			<description>
+&lt;h1&gt;1.43 Magnitude earthquake at 2023-03-12T14:47:28.250Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.740667, 33.657667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15km SSW of Olancha, CA</name>
+			<description>
+&lt;h1&gt;1.65 Magnitude earthquake at 2023-03-12T14:46:05.190Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-118.084500, 36.160000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>40 km NNW of Petersville, Alaska</name>
+			<description>
+&lt;h1&gt;1.3 Magnitude earthquake at 2023-03-12T14:37:51.489Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.120700, 62.819800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alaska Peninsula</name>
+			<description>
+&lt;h1&gt;0.9 Magnitude earthquake at 2023-03-12T14:34:36.757Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-154.494400, 58.197400</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Southern Alaska</name>
+			<description>
+&lt;h1&gt;1.5 Magnitude earthquake at 2023-03-12T14:24:20.040Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-152.157400, 59.962500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10km ENE of Aguanga, CA</name>
+			<description>
+&lt;h1&gt;0.78 Magnitude earthquake at 2023-03-12T14:12:32.510Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.769667, 33.491833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16 km E of Clam Gulch, Alaska</name>
+			<description>
+&lt;h1&gt;1.4 Magnitude earthquake at 2023-03-12T14:09:17.214Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.100000, 60.202500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>99 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.64 Magnitude earthquake at 2023-03-12T14:00:35.910Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.081000, 51.866500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>89 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.46 Magnitude earthquake at 2023-03-12T13:31:11.430Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.940833, 51.878500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>104 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.99 Magnitude earthquake at 2023-03-12T13:21:12.490Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.144500, 51.872167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1km NW of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;2.24 Magnitude earthquake at 2023-03-12T13:20:39.470Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.767670, 38.786499</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>61 km W of Tyonek, Alaska</name>
+			<description>
+&lt;h1&gt;1.8 Magnitude earthquake at 2023-03-12T13:17:08.259Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-152.277600, 61.062900</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Puerto Rico region</name>
+			<description>
+&lt;h1&gt;1.89 Magnitude earthquake at 2023-03-12T13:13:24.200Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-66.973167, 17.932500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;1.09 Magnitude earthquake at 2023-03-12T13:09:20.370Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.089333, 51.857833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13km NNE of Ocotillo Wells, CA</name>
+			<description>
+&lt;h1&gt;1.39 Magnitude earthquake at 2023-03-12T13:08:11.860Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.090167, 33.256333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;1.26 Magnitude earthquake at 2023-03-12T13:05:14.720Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.087833, 51.863500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>99 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.55 Magnitude earthquake at 2023-03-12T13:02:52.170Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.085333, 51.858333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>89 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.68 Magnitude earthquake at 2023-03-12T13:00:45.330Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.937833, 51.887167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Puerto Rico</name>
+			<description>
+&lt;h1&gt;2.33 Magnitude earthquake at 2023-03-12T12:57:26.300Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-66.838500, 17.999167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>south of the Fiji Islands</name>
+			<description>
+&lt;h1&gt;4.4 Magnitude earthquake at 2023-03-12T12:57:16.696Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-179.488100, -22.160200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2km NNW of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;1.27 Magnitude earthquake at 2023-03-12T12:56:09.260Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.766998, 38.794834</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15km NNW of Ocotillo, CA</name>
+			<description>
+&lt;h1&gt;1.16 Magnitude earthquake at 2023-03-12T12:50:58.120Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.080333, 32.849500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Alaska</name>
+			<description>
+&lt;h1&gt;1.0 Magnitude earthquake at 2023-03-12T12:50:56.297Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-150.624700, 63.346800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13km WSW of Salton City, CA</name>
+			<description>
+&lt;h1&gt;0.82 Magnitude earthquake at 2023-03-12T12:45:29.140Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.084500, 33.260833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8km NW of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;1.12 Magnitude earthquake at 2023-03-12T12:39:51.700Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.818001, 38.834000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12km W of Niland, CA</name>
+			<description>
+&lt;h1&gt;1.52 Magnitude earthquake at 2023-03-12T12:34:15.760Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-115.645833, 33.246500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24 km SW of Göksun, Turkey</name>
+			<description>
+&lt;h1&gt;4.3 Magnitude earthquake at 2023-03-12T12:31:22.831Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>36.332100, 37.844900</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 km NE of Pāhala, Hawaii</name>
+			<description>
+&lt;h1&gt;1.83000004 Magnitude earthquake at 2023-03-12T12:27:53.700Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.392838, 19.272499</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10km SSW of Joshua Tree, CA</name>
+			<description>
+&lt;h1&gt;0.98 Magnitude earthquake at 2023-03-12T12:20:52.500Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.348833, 34.048333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9km ENE of Hydesville, CA</name>
+			<description>
+&lt;h1&gt;2.05 Magnitude earthquake at 2023-03-12T12:19:57.550Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-123.999832, 40.585999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;2.63 Magnitude earthquake at 2023-03-12T12:09:24.040Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.150333, 51.851833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12km ESE of Anza, CA</name>
+			<description>
+&lt;h1&gt;0.63 Magnitude earthquake at 2023-03-12T12:07:07.760Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.557333, 33.501167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6km WSW of Anza, CA</name>
+			<description>
+&lt;h1&gt;0.36 Magnitude earthquake at 2023-03-12T11:57:23.230Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.727333, 33.532000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3km SW of Anderson Springs, CA</name>
+			<description>
+&lt;h1&gt;0.96 Magnitude earthquake at 2023-03-12T11:56:24.750Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.713501, 38.751667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>48 km W of Denali Park, Alaska</name>
+			<description>
+&lt;h1&gt;2.0 Magnitude earthquake at 2023-03-12T11:53:44.298Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-149.882200, 63.674300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>124 km WSW of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;3.7 Magnitude earthquake at 2023-03-12T11:52:32.888Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.265800, 51.411000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6km NW of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;0.78 Magnitude earthquake at 2023-03-12T11:43:48.170Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.806000, 38.818001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>76 km ESE of Wāngjing, India</name>
+			<description>
+&lt;h1&gt;4.8 Magnitude earthquake at 2023-03-12T11:43:43.642Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>94.754500, 24.303800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 km SSW of Willow, Alaska</name>
+			<description>
+&lt;h1&gt;1.6 Magnitude earthquake at 2023-03-12T11:34:12.161Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-150.088800, 61.670400</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>40 km SSE of Jurm, Afghanistan</name>
+			<description>
+&lt;h1&gt;4.6 Magnitude earthquake at 2023-03-12T11:33:58.129Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>70.935800, 36.508400</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>87 km NW of Karluk, Alaska</name>
+			<description>
+&lt;h1&gt;1.0 Magnitude earthquake at 2023-03-12T11:29:32.363Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.405200, 58.174800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6km NW of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;1.82 Magnitude earthquake at 2023-03-12T11:25:59.090Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.808830, 38.818001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>85 km NNW of Karluk, Alaska</name>
+			<description>
+&lt;h1&gt;0.5 Magnitude earthquake at 2023-03-12T11:21:17.840Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-154.819900, 58.309900</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>northern Alaska</name>
+			<description>
+&lt;h1&gt;2.2 Magnitude earthquake at 2023-03-12T11:07:16.906Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-154.290000, 68.403400</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6km W of Cobb, CA</name>
+			<description>
+&lt;h1&gt;1.09 Magnitude earthquake at 2023-03-12T11:07:04.010Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.795830, 38.826168</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>91 km SSW of Nikolski, Alaska</name>
+			<description>
+&lt;h1&gt;2.3 Magnitude earthquake at 2023-03-12T10:24:38.906Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-169.374700, 52.174600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Island of Hawaii, Hawaii</name>
+			<description>
+&lt;h1&gt;1.86000001 Magnitude earthquake at 2023-03-12T10:07:18.090Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.491501, 19.174334</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fox Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;-0.7 Magnitude earthquake at 2023-03-12T09:59:38.420Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-166.573167, 53.878167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;1.15 Magnitude earthquake at 2023-03-12T09:57:04.060Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.097833, 51.859000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>101 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.67 Magnitude earthquake at 2023-03-12T09:55:51.540Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.102167, 51.867833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;0.85 Magnitude earthquake at 2023-03-12T09:54:00.820Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.911167, 51.859667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;0.96 Magnitude earthquake at 2023-03-12T09:50:41.090Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.924500, 51.866000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>103 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;2.22 Magnitude earthquake at 2023-03-12T09:47:12.580Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.131333, 51.849167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11km S of Kelseyville, CA</name>
+			<description>
+&lt;h1&gt;0.22 Magnitude earthquake at 2023-03-12T09:46:16.570Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.853165, 38.883499</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>90 km W of Murghob, Tajikistan</name>
+			<description>
+&lt;h1&gt;4.3 Magnitude earthquake at 2023-03-12T09:32:42.135Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>72.939500, 38.071100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>97 km SE of Attu Station, Alaska</name>
+			<description>
+&lt;h1&gt;3.9 Magnitude earthquake at 2023-03-12T09:30:16.307Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>174.096000, 52.163700</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>88 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.38 Magnitude earthquake at 2023-03-12T09:27:19.230Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.913167, 51.859833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>98 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.26 Magnitude earthquake at 2023-03-12T09:18:42.040Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.068667, 51.861000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>88 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.75 Magnitude earthquake at 2023-03-12T09:13:44.440Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.921667, 51.866833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>84 km NW of Karluk, Alaska</name>
+			<description>
+&lt;h1&gt;-0.13 Magnitude earthquake at 2023-03-12T09:12:03.680Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.305500, 58.180500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>84 km NW of Karluk, Alaska</name>
+			<description>
+&lt;h1&gt;-0.23 Magnitude earthquake at 2023-03-12T09:11:44.460Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.301167, 58.181833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7km NW of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;0.6 Magnitude earthquake at 2023-03-12T09:09:29.110Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.813667, 38.823502</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 km ENE of Eielson Air Force Base, Alaska</name>
+			<description>
+&lt;h1&gt;1.1 Magnitude earthquake at 2023-03-12T09:03:38.963Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-146.758100, 64.723500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>86 km NNW of Karluk, Alaska</name>
+			<description>
+&lt;h1&gt;-0.33 Magnitude earthquake at 2023-03-12T09:02:36.840Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.108833, 58.259333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4km WSW of Idyllwild, CA</name>
+			<description>
+&lt;h1&gt;0.54 Magnitude earthquake at 2023-03-12T08:58:56.190Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.761500, 33.719667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4km E of Valle Vista, CA</name>
+			<description>
+&lt;h1&gt;0.58 Magnitude earthquake at 2023-03-12T08:47:04.070Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.852333, 33.744167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kenai Peninsula, Alaska</name>
+			<description>
+&lt;h1&gt;1.9 Magnitude earthquake at 2023-03-12T08:32:53.283Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.618800, 59.997700</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5km WNW of Cobb, CA</name>
+			<description>
+&lt;h1&gt;1.08 Magnitude earthquake at 2023-03-12T08:26:23.800Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.779167, 38.835167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alaska Peninsula</name>
+			<description>
+&lt;h1&gt;1.0 Magnitude earthquake at 2023-03-12T08:16:43.498Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-156.833500, 57.702100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3 km S of Floriston, California</name>
+			<description>
+&lt;h1&gt;1.1 Magnitude earthquake at 2023-03-12T08:16:20.754Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-120.020100, 39.363600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>101 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;2.4 Magnitude earthquake at 2023-03-12T08:15:29.570Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.107667, 51.854333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 km ESE of Minto, Alaska</name>
+			<description>
+&lt;h1&gt;1.2 Magnitude earthquake at 2023-03-12T08:10:16.485Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-149.078500, 65.126400</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7km WNW of Cobb, CA</name>
+			<description>
+&lt;h1&gt;0.45 Magnitude earthquake at 2023-03-12T07:52:56.560Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.802498, 38.838665</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2km NNW of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;0.81 Magnitude earthquake at 2023-03-12T07:52:26.480Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.762833, 38.795834</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26km E of Pine Valley, CA</name>
+			<description>
+&lt;h1&gt;1.42 Magnitude earthquake at 2023-03-12T07:49:22.740Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.257000, 32.846000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>101 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.96 Magnitude earthquake at 2023-03-12T07:46:23.440Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.108667, 51.845667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>147 km S of Lata, Solomon Islands</name>
+			<description>
+&lt;h1&gt;5.7 Magnitude earthquake at 2023-03-12T07:43:20.334Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>165.824700, -12.057700</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 km SSW of Pāhala, Hawaii</name>
+			<description>
+&lt;h1&gt;2.01999998 Magnitude earthquake at 2023-03-12T07:31:00.430Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.494171, 19.168667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15km NE of Indio, CA</name>
+			<description>
+&lt;h1&gt;0.85 Magnitude earthquake at 2023-03-12T07:26:32.070Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.092500, 33.809500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;2.43 Magnitude earthquake at 2023-03-12T07:14:11.570Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.105667, 51.841833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alaska Peninsula</name>
+			<description>
+&lt;h1&gt;0.4 Magnitude earthquake at 2023-03-12T07:11:24.371Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-154.881300, 58.197600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6km SSE of Temecula, CA</name>
+			<description>
+&lt;h1&gt;0.73 Magnitude earthquake at 2023-03-12T07:05:16.840Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-117.114667, 33.444333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>109 km W of San Antonio de los Cobres, Argentina</name>
+			<description>
+&lt;h1&gt;4.3 Magnitude earthquake at 2023-03-12T07:01:33.953Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-67.394200, -24.335600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8km NW of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;0.22 Magnitude earthquake at 2023-03-12T07:01:32.700Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.819168, 38.834331</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>60 km SE of Cantwell, Alaska</name>
+			<description>
+&lt;h1&gt;2.5 Magnitude earthquake at 2023-03-12T06:38:22.003Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-148.026700, 63.037800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18km NW of Parkfield, CA</name>
+			<description>
+&lt;h1&gt;1.83 Magnitude earthquake at 2023-03-12T06:31:40.540Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-120.570503, 36.012833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>59 km ENE of Pedro Bay, Alaska</name>
+			<description>
+&lt;h1&gt;1.9 Magnitude earthquake at 2023-03-12T06:27:35.162Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-153.195800, 60.064600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 km NW of Old Harbor, Alaska</name>
+			<description>
+&lt;h1&gt;1.9 Magnitude earthquake at 2023-03-12T06:15:23.245Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-153.397600, 57.245200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>36 km SSW of Harding-Birch Lakes, Alaska</name>
+			<description>
+&lt;h1&gt;1.1 Magnitude earthquake at 2023-03-12T05:54:53.535Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-147.010100, 64.096000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20km NW of Parkfield, CA</name>
+			<description>
+&lt;h1&gt;1.36 Magnitude earthquake at 2023-03-12T05:50:55.180Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-120.592499, 36.028832</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Island of Hawaii, Hawaii</name>
+			<description>
+&lt;h1&gt;2.1 Magnitude earthquake at 2023-03-12T05:50:29.520Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.445663, 19.482834</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3km NNW of Cabazon, CA</name>
+			<description>
+&lt;h1&gt;1.57 Magnitude earthquake at 2023-03-12T05:37:13.530Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.795167, 33.944333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8km WNW of Cobb, CA</name>
+			<description>
+&lt;h1&gt;0.52 Magnitude earthquake at 2023-03-12T05:31:24.090Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.807999, 38.838165</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>94 km NNW of Karluk, Alaska</name>
+			<description>
+&lt;h1&gt;0.5 Magnitude earthquake at 2023-03-12T05:29:13.763Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.028000, 58.359300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Puerto Rico region</name>
+			<description>
+&lt;h1&gt;2.48 Magnitude earthquake at 2023-03-12T05:21:30.730Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-66.822833, 17.983500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4km NW of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;0.24 Magnitude earthquake at 2023-03-12T05:20:04.630Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.781830, 38.805168</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4km NNW of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;0.75 Magnitude earthquake at 2023-03-12T05:19:53.440Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.781502, 38.807499</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10km W of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;0.84 Magnitude earthquake at 2023-03-12T05:07:08.260Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.875336, 38.772335</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>96 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.86 Magnitude earthquake at 2023-03-12T04:59:18.180Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.039333, 51.835167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>89 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.29 Magnitude earthquake at 2023-03-12T04:57:38.970Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.937000, 51.859667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 km ENE of Nikiski, Alaska</name>
+			<description>
+&lt;h1&gt;1.1 Magnitude earthquake at 2023-03-12T04:47:21.389Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.164000, 60.702700</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>98 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.99 Magnitude earthquake at 2023-03-12T04:46:43.360Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.065167, 51.853667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>97 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.49 Magnitude earthquake at 2023-03-12T04:44:59.700Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.043000, 51.863167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>86 km SE of Pope-Vannoy Landing, Alaska</name>
+			<description>
+&lt;h1&gt;1.6 Magnitude earthquake at 2023-03-12T04:43:59.325Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-153.419800, 59.002300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;1.65 Magnitude earthquake at 2023-03-12T04:42:39.590Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.091500, 51.861833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alaska Peninsula</name>
+			<description>
+&lt;h1&gt;-0.55 Magnitude earthquake at 2023-03-12T04:41:24.260Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.092833, 58.254667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>103 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.71 Magnitude earthquake at 2023-03-12T04:40:24.390Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.140167, 51.873667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12km ESE of Lopez Point, CA</name>
+			<description>
+&lt;h1&gt;1.17 Magnitude earthquake at 2023-03-12T04:40:14.900Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-121.437500, 35.994999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24 km SE of Iztapa, Guatemala</name>
+			<description>
+&lt;h1&gt;4.6 Magnitude earthquake at 2023-03-12T04:39:11.689Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-90.546000, 13.783900</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>63 km ENE of Pedro Bay, Alaska</name>
+			<description>
+&lt;h1&gt;-0.9 Magnitude earthquake at 2023-03-12T04:35:46.480Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-153.069667, 60.014000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9km NNW of Pinnacles, CA</name>
+			<description>
+&lt;h1&gt;0.99 Magnitude earthquake at 2023-03-12T04:32:01.020Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-121.196663, 36.596500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>32 km WSW of Trapper Creek, Alaska</name>
+			<description>
+&lt;h1&gt;2.1 Magnitude earthquake at 2023-03-12T04:31:25.834Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-150.760200, 62.156300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.14 Magnitude earthquake at 2023-03-12T04:29:02.330Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.086333, 51.852833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.01 Magnitude earthquake at 2023-03-12T04:28:14.740Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.089167, 51.863500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>97 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.28 Magnitude earthquake at 2023-03-12T04:26:45.540Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.055000, 51.865500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 km ENE of Pāhala, Hawaii</name>
+			<description>
+&lt;h1&gt;2.04999995 Magnitude earthquake at 2023-03-12T04:26:25.560Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.395172, 19.244499</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>98 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.63 Magnitude earthquake at 2023-03-12T04:18:27.220Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.068500, 51.860667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>78 km E of Cantwell, Alaska</name>
+			<description>
+&lt;h1&gt;1.3 Magnitude earthquake at 2023-03-12T04:17:10.273Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-147.382500, 63.468400</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>97 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.21 Magnitude earthquake at 2023-03-12T04:15:55.620Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.055667, 51.863167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>88 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.96 Magnitude earthquake at 2023-03-12T04:14:45.170Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.911833, 51.859333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>97 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.79 Magnitude earthquake at 2023-03-12T04:13:28.590Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.042333, 51.858500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>52 km WNW of Anchor Point, Alaska</name>
+			<description>
+&lt;h1&gt;1.9 Magnitude earthquake at 2023-03-12T04:00:52.716Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-152.712100, 59.946600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>37 km NNW of Valdez, Alaska</name>
+			<description>
+&lt;h1&gt;1.8 Magnitude earthquake at 2023-03-12T04:00:32.331Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-146.568400, 61.449400</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8km W of Cobb, CA</name>
+			<description>
+&lt;h1&gt;0.75 Magnitude earthquake at 2023-03-12T03:52:09.510Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.817497, 38.836166</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.9 Magnitude earthquake at 2023-03-12T03:42:02.210Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.089000, 51.854667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>37 km E of Pedro Bay, Alaska</name>
+			<description>
+&lt;h1&gt;1.8 Magnitude earthquake at 2023-03-12T03:39:04.866Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-153.438300, 59.775000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2 km S of Indios, Puerto Rico</name>
+			<description>
+&lt;h1&gt;2.12 Magnitude earthquake at 2023-03-12T03:36:56.670Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-66.822833, 17.974833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>South Sandwich Islands region</name>
+			<description>
+&lt;h1&gt;4.7 Magnitude earthquake at 2023-03-12T03:20:53.959Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-24.765700, -58.781700</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 km S of Donnelly, Idaho</name>
+			<description>
+&lt;h1&gt;3.9 Magnitude earthquake at 2023-03-12T03:03:57.624Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.079500, 44.627100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 km E of La Parguera, Puerto Rico</name>
+			<description>
+&lt;h1&gt;2.69 Magnitude earthquake at 2023-03-12T02:58:55.100Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-67.005500, 17.967333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>104 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.94 Magnitude earthquake at 2023-03-12T02:54:52.020Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.152500, 51.877167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4km ESE of Valle Vista, CA</name>
+			<description>
+&lt;h1&gt;0.74 Magnitude earthquake at 2023-03-12T02:51:57.330Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.850167, 33.740167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>45 km NE of Pedro Bay, Alaska</name>
+			<description>
+&lt;h1&gt;1.6 Magnitude earthquake at 2023-03-12T02:32:57.083Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-153.466600, 60.032500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7km WNW of Cobb, CA</name>
+			<description>
+&lt;h1&gt;1.26 Magnitude earthquake at 2023-03-12T02:31:50.620Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.798500, 38.834999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10km WSW of Corona, CA</name>
+			<description>
+&lt;h1&gt;0.98 Magnitude earthquake at 2023-03-12T02:30:18.580Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-117.670167, 33.843000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3km E of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;0.77 Magnitude earthquake at 2023-03-12T02:22:50.920Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.725830, 38.777000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5km WSW of Niland, CA</name>
+			<description>
+&lt;h1&gt;1.71 Magnitude earthquake at 2023-03-12T02:16:28.750Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-115.570500, 33.221833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>South Sandwich Islands region</name>
+			<description>
+&lt;h1&gt;4.8 Magnitude earthquake at 2023-03-12T02:15:03.922Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-24.618800, -59.125600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2km SW of Newport Beach, CA</name>
+			<description>
+&lt;h1&gt;1.39 Magnitude earthquake at 2023-03-12T02:12:11.080Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-117.945667, 33.605500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>35 km NW of Mentasta Lake, Alaska</name>
+			<description>
+&lt;h1&gt;1.6 Magnitude earthquake at 2023-03-12T02:08:34.971Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-144.343800, 63.107300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>48 km SE of Port Graham, Alaska</name>
+			<description>
+&lt;h1&gt;2.0 Magnitude earthquake at 2023-03-12T01:51:40.375Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.169000, 59.075800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5km WNW of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;0.96 Magnitude earthquake at 2023-03-12T01:44:37.610Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.808998, 38.795334</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20km SE of Bodfish, CA</name>
+			<description>
+&lt;h1&gt;1.5 Magnitude earthquake at 2023-03-12T01:43:53.030Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-118.362167, 35.436833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7km WNW of Cobb, CA</name>
+			<description>
+&lt;h1&gt;0.81 Magnitude earthquake at 2023-03-12T01:43:35.540Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.802834, 38.835499</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>282 km WSW of Abepura, Indonesia</name>
+			<description>
+&lt;h1&gt;4.4 Magnitude earthquake at 2023-03-12T01:24:00.989Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>138.372500, -3.765200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>84 km NNW of Karluk, Alaska</name>
+			<description>
+&lt;h1&gt;0.4 Magnitude earthquake at 2023-03-12T01:23:25.032Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.075900, 58.256500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fiji region</name>
+			<description>
+&lt;h1&gt;4.3 Magnitude earthquake at 2023-03-12T01:19:35.798Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.785800, -18.641400</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>60 km SSW of Skwentna, Alaska</name>
+			<description>
+&lt;h1&gt;2.1 Magnitude earthquake at 2023-03-12T01:14:23.943Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.940500, 61.514600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>South Sandwich Islands region</name>
+			<description>
+&lt;h1&gt;5.2 Magnitude earthquake at 2023-03-12T01:09:12.499Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-24.536000, -58.981300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6km NE of Nuevo, CA</name>
+			<description>
+&lt;h1&gt;0.71 Magnitude quarry blast at 2023-03-12T01:07:44.110Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-117.090833, 33.837000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3 km NNW of Guayanilla, Puerto Rico</name>
+			<description>
+&lt;h1&gt;2.52 Magnitude earthquake at 2023-03-12T01:07:11.940Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-66.803167, 18.048833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25 km SSW of Shibetsu, Japan</name>
+			<description>
+&lt;h1&gt;4.1 Magnitude earthquake at 2023-03-12T01:06:04.939Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>145.055200, 43.436600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3 km SW of North Pole, Alaska</name>
+			<description>
+&lt;h1&gt;1.0 Magnitude earthquake at 2023-03-12T01:05:53.412Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-147.399800, 64.733700</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26 km W of Denali Park, Alaska</name>
+			<description>
+&lt;h1&gt;1.6 Magnitude earthquake at 2023-03-12T01:03:44.777Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-149.444700, 63.697900</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19 km SE of Denali National Park, Alaska</name>
+			<description>
+&lt;h1&gt;1.6 Magnitude earthquake at 2023-03-12T01:03:12.287Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.395900, 63.437800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25 km WSW of Denali Park, Alaska</name>
+			<description>
+&lt;h1&gt;1.3 Magnitude earthquake at 2023-03-12T01:02:17.340Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-149.416900, 63.671400</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>105 km S of McCarthy, Alaska</name>
+			<description>
+&lt;h1&gt;1.2 Magnitude earthquake at 2023-03-12T00:57:12.908Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-142.960900, 60.482600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>102 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.66 Magnitude earthquake at 2023-03-12T00:55:43.220Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.125333, 51.874167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>87 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;2.58 Magnitude earthquake at 2023-03-12T00:52:51.650Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.901833, 51.858000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>102 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;2.5 Magnitude earthquake at 2023-03-12T00:46:41.910Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.121500, 51.853167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>82 km NNW of Karluk, Alaska</name>
+			<description>
+&lt;h1&gt;1.1 Magnitude earthquake at 2023-03-12T00:45:30.795Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-154.866000, 58.272700</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.46 Magnitude earthquake at 2023-03-12T00:43:27.420Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.090833, 51.859333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 km ENE of Fox, Alaska</name>
+			<description>
+&lt;h1&gt;1.6 Magnitude earthquake at 2023-03-12T00:42:07.723Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-147.364800, 64.993800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13km SE of Bodfish, CA</name>
+			<description>
+&lt;h1&gt;0.99 Magnitude earthquake at 2023-03-12T00:39:20.950Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-118.392500, 35.507167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>84 km NW of Karluk, Alaska</name>
+			<description>
+&lt;h1&gt;-0.52 Magnitude earthquake at 2023-03-12T00:37:39.560Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.286833, 58.187333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>98 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.52 Magnitude earthquake at 2023-03-12T00:36:59.160Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.068000, 51.871667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;1.56 Magnitude earthquake at 2023-03-12T00:34:48.200Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.931167, 51.883000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3km E of Valle Vista, CA</name>
+			<description>
+&lt;h1&gt;0.81 Magnitude earthquake at 2023-03-12T00:30:27.860Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.858833, 33.743000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.11 Magnitude earthquake at 2023-03-12T00:27:36.880Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.091833, 51.859333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21 km E of Denali National Park, Alaska</name>
+			<description>
+&lt;h1&gt;2.7 Magnitude earthquake at 2023-03-12T00:26:28.537Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.291200, 63.521700</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3km WNW of Anderson Springs, CA</name>
+			<description>
+&lt;h1&gt;1.08 Magnitude earthquake at 2023-03-12T00:24:27.250Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.721664, 38.784332</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.34 Magnitude earthquake at 2023-03-12T00:23:25.200Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.094500, 51.859000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>96 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.62 Magnitude earthquake at 2023-03-12T00:23:04.640Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.036500, 51.834667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18 km ESE of Denali National Park, Alaska</name>
+			<description>
+&lt;h1&gt;1.6 Magnitude earthquake at 2023-03-12T00:22:30.540Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.386000, 63.462100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>88 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.9 Magnitude earthquake at 2023-03-12T00:18:12.930Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.912500, 51.860667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2km N of The Geysers, CA</name>
+			<description>
+&lt;h1&gt;0.96 Magnitude earthquake at 2023-03-12T00:18:02.510Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.754997, 38.792168</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>98 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.7 Magnitude earthquake at 2023-03-12T00:16:24.080Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.057167, 51.869667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;1.66 Magnitude earthquake at 2023-03-12T00:14:51.370Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.955333, 51.860833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.23 Magnitude earthquake at 2023-03-12T00:13:17.220Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.086167, 51.869333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>99 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.61 Magnitude earthquake at 2023-03-12T00:12:57.120Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.081333, 51.868667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;1.55 Magnitude earthquake at 2023-03-12T00:10:05.510Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.082667, 51.859333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;0.79 Magnitude earthquake at 2023-03-12T00:08:24.290Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.104167, 51.865833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>103 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;2.14 Magnitude earthquake at 2023-03-12T00:04:39.290Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.130333, 51.859167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;1.32 Magnitude earthquake at 2023-03-12T00:01:22.930Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.114167, 51.861833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 km SSW of Pāhala, Hawaii</name>
+			<description>
+&lt;h1&gt;2.01999998 Magnitude earthquake at 2023-03-11T23:59:26.050Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.494995, 19.153833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>89 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.36 Magnitude earthquake at 2023-03-11T23:59:01.030Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.937833, 51.878667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>107 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.87 Magnitude earthquake at 2023-03-11T23:58:23.020Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.188667, 51.908000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>84 km NW of Karluk, Alaska</name>
+			<description>
+&lt;h1&gt;-0.68 Magnitude earthquake at 2023-03-11T23:57:48.560Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-155.273000, 58.191333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.61 Magnitude earthquake at 2023-03-11T23:57:08.580Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.090167, 51.855333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;1.1 Magnitude earthquake at 2023-03-11T23:56:46.960Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.915500, 51.855333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14km SW of Borrego Springs, CA</name>
+			<description>
+&lt;h1&gt;1.44 Magnitude earthquake at 2023-03-11T23:54:47.770Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-116.475500, 33.158000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 km NNW of Fox River, Alaska</name>
+			<description>
+&lt;h1&gt;2.4 Magnitude earthquake at 2023-03-11T23:53:03.220Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.057400, 59.937800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 km NNW of Big Lake, Alaska</name>
+			<description>
+&lt;h1&gt;1.6 Magnitude earthquake at 2023-03-11T23:52:56.458Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-150.028500, 61.613000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>84 km NNW of Karluk, Alaska</name>
+			<description>
+&lt;h1&gt;-0.01 Magnitude earthquake at 2023-03-11T23:52:28.250Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-154.987833, 58.270833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;0.87 Magnitude earthquake at 2023-03-11T23:45:35.070Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.100833, 51.860000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>55 km WSW of Tatitlek, Alaska</name>
+			<description>
+&lt;h1&gt;1.6 Magnitude earthquake at 2023-03-11T23:45:14.528Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-147.529900, 60.593900</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>89 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.59 Magnitude earthquake at 2023-03-11T23:45:10.460Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.935500, 51.877500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>51 km E of Farkhār, Afghanistan</name>
+			<description>
+&lt;h1&gt;4.3 Magnitude earthquake at 2023-03-11T23:41:33.184Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>70.420300, 36.486700</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>89 km NW of Naha, Japan</name>
+			<description>
+&lt;h1&gt;4.9 Magnitude earthquake at 2023-03-11T23:39:15.929Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>126.938700, 26.673200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>50 km W of Anchor Point, Alaska</name>
+			<description>
+&lt;h1&gt;1.3 Magnitude earthquake at 2023-03-11T23:38:03.815Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-152.723800, 59.753400</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>40 km W of Clear, Alaska, Alaska</name>
+			<description>
+&lt;h1&gt;1.4 Magnitude earthquake at 2023-03-11T23:37:30.415Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-149.999200, 64.198700</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>104 km ENE of Kobuk, Alaska</name>
+			<description>
+&lt;h1&gt;2.5 Magnitude earthquake at 2023-03-11T23:36:36.451Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-154.587400, 67.167000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>95 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.05 Magnitude earthquake at 2023-03-11T23:36:01.130Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.021667, 51.878667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>103 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.39 Magnitude earthquake at 2023-03-11T23:30:35.590Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.130000, 51.866167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.7 Magnitude earthquake at 2023-03-11T23:26:27.280Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.093667, 51.852333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3km SSW of Anderson Springs, CA</name>
+			<description>
+&lt;h1&gt;1.31 Magnitude earthquake at 2023-03-11T23:23:18.930Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.711502, 38.749668</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>89 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.19 Magnitude earthquake at 2023-03-11T23:22:25.300Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-177.934667, 51.881333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>96 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.21 Magnitude earthquake at 2023-03-11T23:22:21.620Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.033333, 51.842167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7km W of Cobb, CA</name>
+			<description>
+&lt;h1&gt;0.77 Magnitude earthquake at 2023-03-11T23:21:55.590Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-122.800499, 38.831665</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 km SSW of North Pole, Alaska</name>
+			<description>
+&lt;h1&gt;0.6 Magnitude earthquake at 2023-03-11T23:20:19.445Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-147.476400, 64.668000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>50 km SSE of Denali National Park, Alaska</name>
+			<description>
+&lt;h1&gt;2.0 Magnitude earthquake at 2023-03-11T23:18:07.202Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-151.459200, 63.103300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>101 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.33 Magnitude earthquake at 2023-03-11T23:15:28.960Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.106833, 51.858833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>101 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;1.21 Magnitude earthquake at 2023-03-11T23:15:05.790Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.106833, 51.850000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>102 km W of Adak, Alaska</name>
+			<description>
+&lt;h1&gt;0.83 Magnitude earthquake at 2023-03-11T23:12:33.610Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.124333, 51.874833</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andreanof Islands, Aleutian Islands, Alaska</name>
+			<description>
+&lt;h1&gt;0.87 Magnitude earthquake at 2023-03-11T23:10:51.520Z&lt;/h1&gt;
+			</description>
+			<Point>
+				<coordinates>-178.091000, 51.858833</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
